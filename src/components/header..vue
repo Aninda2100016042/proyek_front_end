@@ -19,8 +19,8 @@ export default {
     },
  data(){
     return{
-       
-    }
+        items: [] // Definisikan properti "items" dengan nilai awal yang sesuai 
+    };
  },
  methods:{
     toggle(event){
