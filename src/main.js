@@ -26,3 +26,4 @@ app.directive('tooltip',Tooltip);
 app.use(router);
 app.use(PrimeVue);
 app.mount('#app')
+
